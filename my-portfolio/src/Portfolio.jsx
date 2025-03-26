@@ -73,7 +73,7 @@ export default function Portfolio() {
             <li><a href="#contact">Contact</a></li>
           </ul>
           <div className="navbar-icons">
-            <a href="/Carl-Gabriel-Yap-Resume.pdf" download title="Download Resume">
+            <a href="/downloads/Carl Gabriel-Yap-Resume.pdf" download title="Download Resume">
               <FaFilePdf size={20} />
             </a>
             <a href="https://carlgabrielyap.jobs180.com" target="_blank" rel="noopener noreferrer" title="Jobs180 Profile">
