@@ -151,7 +151,7 @@ export default function Portfolio() {
             and transforming them into actionable strategies. I thrive on
             challenges and am driven to help organizations succeed in their
             goals through data-driven decisions. I am proficient in Power BI,
-            Excel, Python, and Java, and continually seek opportunities to
+            Excel, Python, and Javascript, and continually seek opportunities to
             expand my knowledge and contribute meaningfully.
           </p>
         </motion.section>
@@ -204,7 +204,7 @@ export default function Portfolio() {
               Professional Development Workshop by Career and Placement Office
               (2020)
             </li>
-            <li>Excel Macros % VBA for Beginners</li>
+            <li>Excel Macros & VBA for Beginners</li>
             <li>Data Analytics for Business</li>
             <li>Excel Automation with ChatGPT</li>
             <li>
@@ -268,20 +268,13 @@ export default function Portfolio() {
             </p>
             <div className="abstract-box">
               <iframe
-                src="/images/Flow Map.png"
+                src="my-portfolio/public/images/Flow Map.png"
                 title="Flow Map Preview"
                 className="project-image"
                 style={{ width: "100%", height: "500px", border: "none" }}
               ></iframe>
             </div>
-            <a
-              href="/downloads/2021 Airport Details updated.pbix"
-              download
-              className="button-link"
-              style={{ marginTop: "0.5rem", display: "inline-block" }}
-            >
-              Download Full Report (Pbix)
-            </a>
+          
           </div>
 
           <div className="project-card">
@@ -302,7 +295,7 @@ export default function Portfolio() {
                 transition={{ duration: 0.6, ease: "easeOut" }}
               >
                 <img
-                  src="/images/HAU.png"
+                  src="my-portfolio/public/images/HAU.png"
                   alt="HAU Logo"
                   className="abstract-icon"
                 />
@@ -361,7 +354,8 @@ export default function Portfolio() {
               </p>
               <div className="abstract-box">
                 <iframe
-                  src="/images/LeaseRate.png"
+                  src="my-portfolio/public/images/LeaseRate.png"
+
                   title="Lease Rate Calculator Preview"
                   className="project-image"
                   style={{ width: "100%", height: "500px", border: "none" }}
