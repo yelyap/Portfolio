@@ -101,7 +101,7 @@ export default function Portfolio() {
               <FaGlobe size={20} />
             </a>
             <a
-              href="https://www.linkedin.com/in/carl-gabriel-yap-8a9085337/"
+              href="https://www.linkedin.com/in/carl-gabriel-yap/"
               target="_blank"
               rel="noopener noreferrer"
               title="LinkedIn"
@@ -268,7 +268,7 @@ export default function Portfolio() {
             </p>
             <div className="abstract-box">
               <iframe
-                src="my-portfolio/public/images/Flow Map.png"
+                src="images/Flow Map.png"
                 title="Flow Map Preview"
                 className="project-image"
                 style={{ width: "100%", height: "500px", border: "none" }}
@@ -295,7 +295,7 @@ export default function Portfolio() {
                 transition={{ duration: 0.6, ease: "easeOut" }}
               >
                 <img
-                  src="my-portfolio/public/images/HAU.png"
+                  src="images/HAU.png"
                   alt="HAU Logo"
                   className="abstract-icon"
                 />
@@ -354,8 +354,7 @@ export default function Portfolio() {
               </p>
               <div className="abstract-box">
                 <iframe
-                  src="my-portfolio/public/images/LeaseRate.png"
-
+                  src="images/LeaseRate.png"
                   title="Lease Rate Calculator Preview"
                   className="project-image"
                   style={{ width: "100%", height: "500px", border: "none" }}
